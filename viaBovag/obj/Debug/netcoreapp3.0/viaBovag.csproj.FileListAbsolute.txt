@@ -1,0 +1,13 @@
+L:\viaBovag\viaBovag\viaBovag\bin\Debug\netcoreapp3.0\viaBovag.exe
+L:\viaBovag\viaBovag\viaBovag\bin\Debug\netcoreapp3.0\viaBovag.deps.json
+L:\viaBovag\viaBovag\viaBovag\bin\Debug\netcoreapp3.0\viaBovag.runtimeconfig.json
+L:\viaBovag\viaBovag\viaBovag\bin\Debug\netcoreapp3.0\viaBovag.runtimeconfig.dev.json
+L:\viaBovag\viaBovag\viaBovag\bin\Debug\netcoreapp3.0\viaBovag.dll
+L:\viaBovag\viaBovag\viaBovag\bin\Debug\netcoreapp3.0\viaBovag.pdb
+L:\viaBovag\viaBovag\viaBovag\obj\Debug\netcoreapp3.0\viaBovag.csprojAssemblyReference.cache
+L:\viaBovag\viaBovag\viaBovag\obj\Debug\netcoreapp3.0\viaBovag.AssemblyInfoInputs.cache
+L:\viaBovag\viaBovag\viaBovag\obj\Debug\netcoreapp3.0\viaBovag.AssemblyInfo.cs
+L:\viaBovag\viaBovag\viaBovag\obj\Debug\netcoreapp3.0\viaBovag.dll
+L:\viaBovag\viaBovag\viaBovag\obj\Debug\netcoreapp3.0\viaBovag.pdb
+L:\viaBovag\viaBovag\viaBovag\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+L:\viaBovag\viaBovag\viaBovag\obj\Debug\netcoreapp3.0\viaBovag.csproj.CopyComplete

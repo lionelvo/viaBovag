@@ -1,0 +1,26 @@
+{
+ "title": "Audi uit 2012 in topconditie!",
+ "description": "Lorem ipsum dolor sit amet.",
+ "price": 18575.0,
+ "advertiser": {
+ "name": "Audi Specialist Amsterdam",
+ "emailAddress": "verkoop@audi-specialist.nl",
+ "phoneNumber": "0208855221"
+ },
+ "vehicle": {
+ "brand": "Audi",
+ "model": "A5 Sportback",
+ "year": 2012,
+ "vehicleRegistrationNumber": "92-TTL-2"
+ },
+ "media": [
+ {
+ "uri": "https://bit.ly/2m4DYRg",
+ "caption": "Zijkant"
+ },
+ {
+ "uri": "https://bit.ly/2kuGjVq",
+ "caption": "Achterkant"
+ }
+ ]
+}
